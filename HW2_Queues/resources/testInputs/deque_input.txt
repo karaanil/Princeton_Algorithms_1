@@ -1,0 +1,31 @@
+construct
+addFirst        3
+addLast         4
+size            2
+removeFirst     
+size            1
+isEmpty         false
+removeLast      
+size            0
+isEmpty         true
+addFirst        7
+addFirst        8
+addFirst        9
+addFirst        10
+addLast         3
+addLast         5
+addFirst        2
+iterCheck       2:10:9:8:7:3:5
+size            7
+isEmpty         false
+removeLast      
+removeLast      
+removeFirst     
+iterCheck       10:9:8:7
+addLast         4
+addFirst        1
+addLast         5
+addFirst        0
+size            8
+isEmpty         false
+iterCheck       0:1:10:9:8:7:4:5
