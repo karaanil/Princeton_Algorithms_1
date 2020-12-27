@@ -2,7 +2,7 @@
 ## Programming Assignment: Percolation 
 https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 
-![percolation](https://github.com/karaanil/Princeton_Algorithms_1/blob/master/HW1_Percolation/percolation.png)
+![percolation](https://github.com/karaanil/Princeton_Algorithms_1/blob/master/HW1_Percolation/percolation.gif)
 
 ## Grading
 See the Assessment Guide for information on how to interpret this report.
