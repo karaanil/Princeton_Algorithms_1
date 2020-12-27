@@ -1,3 +1,9 @@
+# Homework 2
+## Programming Assignment: Deques and Randomized Queues
+https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
+
+## Grading
+
 See the Assessment Guide for information on how to interpret this report.
 
 ASSESSMENT SUMMARY
