@@ -1,4 +1,4 @@
-# Homework 3
+# Homework 3 (100/100)
 ## Programming Assignment: Collinear Points
 https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php
 

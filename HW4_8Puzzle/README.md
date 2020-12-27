@@ -1,4 +1,4 @@
-# Homework 4
+# Homework 4 (100/100)
 ## Programming Assignment: 8 Puzzle
 https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
 

@@ -1,4 +1,4 @@
-# Homework 5
+# Homework 5 (100/100)
 ## Programming Assignment: Kd-Trees
 https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
 

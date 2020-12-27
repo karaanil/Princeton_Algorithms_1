@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1 (100/100)
 ## Programming Assignment: Percolation 
 https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 

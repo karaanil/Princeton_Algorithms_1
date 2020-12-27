@@ -1,4 +1,4 @@
-# Homework 2
+# Homework 2 (100/100)
 ## Programming Assignment: Deques and Randomized Queues
 https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 
